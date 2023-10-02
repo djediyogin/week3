@@ -1,0 +1,38 @@
+
+
+nav{
+    height: 100px;
+    width: 200 px;
+    padding: 5px;
+    line-height: 30px;
+}
+
+header{
+    border: 2px solid;
+    background-color: limegreen;
+}
+
+h1{
+    font-family: atari kids;
+}
+
+body{
+
+    background-color: lightslategray;
+}
+
+p{
+    color: darkgreen
+}
+
+footer{
+
+    text-align: center;
+    margin-right: 200px;
+
+}
+
+#memeImage{
+    margin-right: 200px;
+    padding-left: 50px;
+}
